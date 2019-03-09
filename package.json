@@ -1,0 +1,24 @@
+{
+  "name": "simple-grunt-contrib-imagemin",
+  "version": "1.0.0",
+  "description": "Compress images with grunt-contrib-imagemin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wlwl2/simple-grunt-contrib-imagemin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wlwl2/simple-grunt-contrib-imagemin/issues"
+  },
+  "homepage": "https://github.com/wlwl2/simple-grunt-contrib-imagemin#readme",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-imagemin": "^3.1.0"
+  }
+}
